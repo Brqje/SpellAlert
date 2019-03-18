@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Version: 1.12.x
-## Title: SpellAlert - 2018 Baroque edit
+## Title: SpellAlert |cFFFFFFFF- Baroque edit|r
 ## Author: Awen (Original), Mithryn, MarsMod, Sent, Baroque
 ## Notes: Warns the player of the spell being casting from the hostile units.
 ## OptionalDeps: MikScrollingBattleText
