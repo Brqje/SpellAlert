@@ -82,7 +82,7 @@
 				</Texture>
 			</Layer>
 			<Layer level="OVERLAY">
-				<FontString inherits="GameFontNormal" text="SpellAlert - Baroque 2018 edit">
+				<FontString inherits="GameFontNormal" text="SpellAlert - Baroque edit">
 					<Anchors>
 						<Anchor point="TOP">
 							<Offset>

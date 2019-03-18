@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: SpellAlertOptions - 2018 Baroque edit
+## Title: SpellAlertOptions |cFFFFFFFF- Baroque edit|r
 ## Version: 1.12.x
 ## Author: Awen (Original), Mithryn, MarsMod, Sent, Baroque
 ## Notes: Load on demand option windows for SpellAlert.
